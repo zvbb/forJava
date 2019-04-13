@@ -65,10 +65,45 @@ aaaaaaa
 
 bbbbbbb
 
+aaa
+
+***
+
+bbb
+
+aaa
+
+___
+
+bbb
+
+
 # 引用demo
+- 单重引用  
 > 你还不来,我怎敢老去。
 
 出自:张爱玲
+
+- 多重引用  
+>>> 多重引用实例
+
+# 代码块demo
+
+- 块式代码
+  - 使用 '反引号'
+    ```java
+      int i = 10;
+      String str = "makedown";
+    ```
+  - 使用四个空格(此处没有验证成功)  
+  
+    int i = 10;  
+    String str = "makedown";  
+- 行内代码
+  这是一个代码指令`char a = 'a'`
+
+
+
 
 <!--文档中用到的链接部分-->
 [百度]:https://www.baidu.com
