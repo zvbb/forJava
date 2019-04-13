@@ -124,9 +124,14 @@ bbb
 > github flvored markdown  
 
 ## task list
-1. task1
-2. task2
-3. task3
+
+- [ ] task1
+- [x] task2
+- [ ] task3
+
+# emoji 表情符号  
+
+:dolphin:
 
 
 
