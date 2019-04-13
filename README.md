@@ -106,9 +106,7 @@ bbb
       String str = "makedown";
     ```
   - 使用四个空格(此处没有验证成功)  
-  
 sdfsdf
-
     int i = 10;  
     String str = "makedown";  
 - 行内代码
