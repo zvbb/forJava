@@ -102,13 +102,10 @@ bbb
 - 块式代码
   - 使用 '反引号'
     ```java
-      int i = 10;
+      int i = 10;  
       String str = "makedown";
     ```
-  - 使用四个空格(此处没有验证成功)  
-  
-  占位段落
-
+  - 使用四个空格(此处没有验证成功)
     int i = 10;  
     String str = "makedown";  
 - 行内代码
