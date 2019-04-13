@@ -42,13 +42,20 @@
 - 内部链接:链接文档的其他部分[文本demo]
 
 # 图片demo
-- 图片的语法  
-    ![alt](url "text")
+- 图片的语法    
+> ![alt](url "text")  
+
 - 链接方式
   - 内嵌式链接
     - 外部图片  
     ![百度-log](https://www.baidu.com/img/bd_logo1.png "百度")
     - 仓库中文件
+    ![头像](resource/images/26a79f1e7cdcc3faee72be643aeb8bdd.png "头像")    
+  - 引用式链接  
+    - 外部图片  
+    ![百度-log][baidu-log]  
+    - 仓库中文件  
+    ![][portrait-log]
 
 
 # 分割线
@@ -62,3 +69,6 @@ bbbbbbb
 [百度]:https://www.baidu.com
 [README2.md]:README2.md
 [文本demo]:README.md#文本demo
+
+[baidu-log]:https://www.baidu.com/img/bd_logo1.png  
+[portrait-log]:resource/images/26a79f1e7cdcc3faee72be643aeb8bdd.png
