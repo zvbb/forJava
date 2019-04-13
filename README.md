@@ -41,6 +41,16 @@
 - 内部链接:链接仓库的其他文件[README2.md]
 - 内部链接:链接文档的其他部分[文本demo]
 
+# 图片demo
+- 图片的语法  
+    ![alt](url "text")
+- 链接方式
+  - 内嵌式链接
+    - 外部图片  
+    ![百度-log](https://www.baidu.com/img/bd_logo1.png "百度")
+    - 仓库中文件
+
+
 # 分割线
 aaaaaaa
 
