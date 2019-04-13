@@ -102,6 +102,35 @@ bbb
 - 行内代码
   这是一个代码指令`char a = 'a'`
 
+# html代码
+<p align="center">hello markdown</p>
+
+# 表格demo  
+- 表格语法
+```
+| 第一列 | 第二列 | 第三列 |
+|---|---|---|
+```
+
+- 表格内容对其方式   
+
+|第一列|第二列|第三列|
+|---|:---:|---:|  
+|aaaaaaa|bbbbbbbb|cccccccc|  
+|![百度log][baidu-log]|**b**|[百度]|  
+
+
+# GFM
+> github flvored markdown  
+
+## task list
+1. task1
+2. task2
+3. task3
+
+
+
+
 
 
 
