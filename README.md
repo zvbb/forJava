@@ -34,7 +34,12 @@
 ## 内嵌式链接
 - 外部链接:[百度](https://www.baidu.com)
 - 内部链接:链接仓库的其他文件[README2.md](README2.md)
-- 内部链接:链接本文档的其他部分[代码块文本demo](README.md#标题-demo)   
+- 内部链接:链接本文档的其他部分[文本demo](README.md#文本demo)   
+
+## 引用式链接
+- 外部链接:[百度]
+- 内部链接:链接仓库的其他文件[README2.md]
+- 内部链接:链接文档的其他部分[文本demo]
 
 # 分割线
 aaaaaaa
@@ -42,3 +47,8 @@ aaaaaaa
 ---
 
 bbbbbbb
+
+<!--文档中用到的链接部分-->
+[百度]:https://www.baidu.com
+[README2.md]:README2.md
+[文本demo]:README.md#文本demo
