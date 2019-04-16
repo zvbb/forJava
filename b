@@ -7,4 +7,5 @@ C1
 C2
 C3
 C5
+stash test 2
 normal add
