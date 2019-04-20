@@ -69,23 +69,20 @@
 
 
 # 分割线
+## 语法
+```
+
+空行
+---
+空行
+
+```
+
 aaaaaaa
 
 ---
 
 bbbbbbb
-
-aaa
-
-***
-
-bbb
-
-aaa
-
-___
-
-bbb
 
 
 # 引用demo
@@ -133,14 +130,29 @@ bbb
 > github flvored markdown  
 
 ## task list
-
+### 语法
+```
 - [ ] task1
 - [x] task2
 - [ ] task3
 
-# emoji 表情符号  
+```
 
+### 实例  
+- [ ] task1
+- [x] task2
+- [ ] task3
+
+## emoji 表情符号  
+
+### 语法
+```
+:表情名称:
+```
+### 实例
 :dolphin:
+
+注：[emoji表情参考仓库](https://github.com/guodongxiaren/README/blob/master/emoji.md)
 
 
 
