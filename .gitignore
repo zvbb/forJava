@@ -1,1 +1,9 @@
-b.txt
+target/
+.idea/
+.DS_Store
+*.iml
+dependency*.xml
+src/main/resource/logback-spring.xml
+src/main/resource/config/*.yml
+*.sql
+*feature*.yml
