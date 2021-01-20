@@ -9,6 +9,14 @@
     <packaging>jar</packaging>
     <version>1.0</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.redisson</groupId>
+            <artifactId>redisson</artifactId>
+            <version>3.8.2</version>
+        </dependency>
+    </dependencies>
+
     <build>
         <plugins>
             <!--解决SpringBoot打包成jar后运行提示没有主清单属性-->
